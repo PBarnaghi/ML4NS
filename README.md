@@ -1,4 +1,3 @@
 # Machine Learning for Neuroscience
-  Department of Brian Sciences
-  
+  Department of Brain Sciences </br>
   Imperial College London
