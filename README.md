@@ -11,7 +11,8 @@
 
 <br/>
 <br/>
-** Notes:**
+
+**Notes:**
 
 1. [Introduction to machine learning](https://github.com/PBarnaghi/ML4NS/blob/main/01-%20Introduction%20to%20ML/01_Introduction_to_Machine_Learning.pdf)
 
