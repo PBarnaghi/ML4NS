@@ -16,16 +16,16 @@
 
 Tutorials: 
 
-[Python for Beginners](https://github.com/PBarnaghi/ML4NS/blob/main/00-%20Tutorials/Python%20for%20Beginners%20Tutorial/Python%20for%20Beginners%20(run).ipynb) 
+[Python for Beginners](./00-%20Tutorials/Python%20for%20Beginners%20Tutorial/Python%20for%20Beginners%20(run).ipynb) 
 
-[Machine Learning for Beginners (introduction to scikit-learn)](https://github.com/PBarnaghi/ML4NS/blob/main/00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20(run).ipynb)
+[Machine Learning for Beginners (introduction to scikit-learn)](./00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20(run).ipynb)
 
 
 1. Introduction to machine learning</br>
-   [Notes](https://github.com/PBarnaghi/ML4NS/blob/main/01-%20Introduction%20to%20ML/01_Introduction_to_Machine_Learning.pdf)</br>
-   [Slides](https://github.com/PBarnaghi/ML4NS/blob/main/01-%20Introduction%20to%20ML/Lecture1_Introduction.pptx)</br>
-   [Lab Notebook](https://github.com/PBarnaghi/ML4NS/blob/main/00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners.ipynb)</br>
-   [Lab Questions](https://github.com/PBarnaghi/ML4NS/blob/main/00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20Assessment.ipynb)</br>
+   [Notes](./01-%20Introduction%20to%20ML/01_Introduction_to_Machine_Learning.pdf)</br>
+   [Slides](./01-%20Introduction%20to%20ML/Lecture1_Introduction.pptx)</br>
+   [Lab Notebook](./main/00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners.ipynb)</br>
+   [Lab Questions](./00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20Assessment.ipynb)</br>
 
 2. Regression Models and Linear Prediction
    [Slides](./02-%20Regression%20models%20and%20linear%20prediction/ML4NuerScience_Linear_models.pptx)
