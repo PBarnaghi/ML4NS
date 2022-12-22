@@ -15,12 +15,17 @@
 **Slides and Notes:**
 
 Tutorials: 
+
 [Python for Beginners](https://github.com/PBarnaghi/ML4NS/blob/main/00-%20Tutorials/Python%20for%20Beginners%20Tutorial/Python%20for%20Beginners%20(run).ipynb) 
 
 [Machine Learning for Beginners (introduction to scikit-learn)](https://github.com/PBarnaghi/ML4NS/blob/main/00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20(run).ipynb)
 
 
-1. [Introduction to machine learning](https://github.com/PBarnaghi/ML4NS/blob/main/01-%20Introduction%20to%20ML/01_Introduction_to_Machine_Learning.pdf)
+1. Introduction to machine learning
+   [Notes](https://github.com/PBarnaghi/ML4NS/blob/main/01-%20Introduction%20to%20ML/01_Introduction_to_Machine_Learning.pdf)</br>
+   [Slides](https://github.com/PBarnaghi/ML4NS/blob/main/01-%20Introduction%20to%20ML/Lecture1_Introduction.pptx)</br>
+   [Lab Notebook](https://github.com/PBarnaghi/ML4NS/blob/main/00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners.ipynb)</br>
+   [Lab Questions](https://github.com/PBarnaghi/ML4NS/blob/main/00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20Assessment.ipynb)</br>
 
 
 <br/>
