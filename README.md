@@ -20,9 +20,9 @@
 
 Tutorials: 
 
-   [Python for Beginners](./00-%20Tutorials/Python%20for%20Beginners%20Tutorial/Python%20for%20Beginners%20(run).ipynb) 
+&nbsp;&nbsp;&nbsp;[Python for Beginners](./00-%20Tutorials/Python%20for%20Beginners%20Tutorial/Python%20for%20Beginners%20(run).ipynb) 
 
-   [Machine Learning for Beginners (introduction to scikit-learn)](./00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20(run).ipynb)
+&nbsp;&nbsp;&nbsp;[Machine Learning for Beginners (introduction to scikit-learn)](./00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20(run).ipynb)
 
 
 1. Introduction to Machine Learning</br>
