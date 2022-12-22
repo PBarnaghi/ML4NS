@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-**Virtual environment Setting**
+**Virtual Environment Settings**
 
 [YML file](./Virtual%20Environment%20Settings/virtual_env.yml)<br/>
 
