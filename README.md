@@ -16,6 +16,7 @@
 
 Tutorials: 
 [Python for Beginners](https://github.com/PBarnaghi/ML4NS/blob/main/00-%20Tutorials/Python%20for%20Beginners%20Tutorial/Python%20for%20Beginners%20(run).ipynb) 
+
 [Machine Learning for Beginners (introduction to scikit-learn)](https://github.com/PBarnaghi/ML4NS/blob/main/00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20(run).ipynb)
 
 
