@@ -25,7 +25,7 @@ Tutorials:
 [Machine Learning for Beginners (introduction to scikit-learn)](./00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20(run).ipynb)
 
 
-1. Introduction to machine learning</br>
+1. Introduction to Machine Learning</br>
    [Notes](./01-%20Introduction%20to%20ML/01_Introduction_to_Machine_Learning.pdf)</br>
    [Slides](./01-%20Introduction%20to%20ML/Lecture1_Introduction.pptx)</br>
    [Lab Notebook](./00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners.ipynb)</br>
