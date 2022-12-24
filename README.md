@@ -19,7 +19,7 @@
 **Mathematical symbols and notations:**
 
 [Notations](./Misc/Mathematical_Notations.pdf)<br/>
-{Basics of Matrix Algebra](./Misc/Matrix_Algebra.pdf)
+[Basics of Matrix Algebra](./Misc/Matrix_Algebra.pdf)
 <br/>
 <br/>
 
