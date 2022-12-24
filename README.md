@@ -20,6 +20,7 @@
 
 [Notations](./Misc/Mathematical_Notations.pdf)
 
+
 **Slides and Notes:**
 
 Tutorials: 
