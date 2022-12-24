@@ -16,6 +16,10 @@
 
 [YML file](./Virtual%20Environment%20Settings/virtual_env.yml)<br/>
 
+**Mathematical symbols and notations:**
+
+[Notations](./Misc/Mathematical_Notations.pdf)
+
 **Slides and Notes:**
 
 Tutorials: 
