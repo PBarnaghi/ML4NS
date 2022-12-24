@@ -19,7 +19,8 @@
 **Mathematical symbols and notations:**
 
 [Notations](./Misc/Mathematical_Notations.pdf)
-
+<br/>
+<br/>
 
 **Slides and Notes:**
 
