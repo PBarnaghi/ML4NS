@@ -1,18 +1,19 @@
 <H1>Seminar</H1>
 
-content will be added later<br/>
+content will be added later<br/></br>
+
 
 
 **Assessment**
 
 Please review the given paper and explain the issues with machine learning and data processing methods used in the presented work (you can write your report in bullet points if you prefer). </br>
 
-[Title and link to the paper will be given during the lecture session]<br/> 
+[Title and link to the paper will be given during the lecture session]<br/> <br/> 
 
 ***Notes:*** 
 Your report should be no more than 500 words. <br/>
 
-Please focus on different aspects of machine learning model(s) used in the presented work, discuss potential issues with the models and methods, and explore how these issues could be overcome. For example, whether other metrics or models could be applicable and why. <br/>
+Please focus on different aspects of machine learning model(s) used in the presented work, discuss potential issues with the models and methods, and explore how these issues could be overcome. For example, whether other metrics or models could be applicable and why. <br/><br/> 
 
 
 **Marking Scheme:**
