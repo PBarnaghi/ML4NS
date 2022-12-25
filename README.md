@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-**Virtual Environment Settings**
+**Virtual environment settings**
 
 [YML file](./Virtual%20Environment%20Settings/virtual_env.yml)<br/>
 
@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-**Slides and Notes:**
+**Slides and notes:**
 
 Tutorials: 
 
