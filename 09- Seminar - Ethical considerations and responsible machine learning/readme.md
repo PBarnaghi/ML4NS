@@ -1,6 +1,6 @@
 <H1>Seminar</H1>
 
-[Ethical considerations and responsible machine learning](ML4NuerScience_Ethical_MLpptx.pptx)<br/></br>
+[Ethical considerations and responsible machine learning](ML4NuerScience_Ethical_MLpptx.pptx) [(PDF Copy)](ML4NuerScience_Ethical_MLpptx.pdf)<br/></br>
 
 
 
@@ -11,7 +11,7 @@ Please review the given paper and explain the issues with machine learning and d
 [Title and link to the paper will be given during the lecture session]<br/> <br/> 
 
 ***Notes:*** 
-Your report should be no more than 500 words. <br/>
+Your report should be maximum 1 page (font size 11, margins 2cm for each side).<br/>
 
 Please focus on different aspects of machine learning model(s) used in the presented work, discuss potential issues with the models and methods, and explore how these issues could be overcome. For example, whether other metrics or models could be applicable and why. <br/><br/> 
 
