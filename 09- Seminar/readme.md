@@ -1,6 +1,6 @@
 <H1>Seminar</H1>
 
-[Ethical considerations and responsible machine learning](ML4NuerScience_Ethical_MLpptx.pptx) [PDF Copy](ML4NuerScience_Ethical_MLpptx.pdf)<br/></br>
+[Ethical considerations and responsible machine learning](ML4NuerScience_Ethical_MLpptx.pptx) [(PDF Copy)](ML4NuerScience_Ethical_MLpptx.pdf)<br/></br>
 
 
 
