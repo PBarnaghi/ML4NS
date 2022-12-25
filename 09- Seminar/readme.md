@@ -19,10 +19,10 @@ Please focus on different aspects of machine learning model(s) used in the prese
 **Marking Scheme:**
 
 ***Score range: 10%-40%***<br/>
-A response that explains some of the relevant issues and concepts in the reviewed work but does not address the key issues or the report is incoherent or unfocused. <br/>
+A response that explains a few relevant issues and concepts in the reviewed work but does not address the key issues or the report is incoherent or unfocused. <br/>
 
 ***Score range: 41%-50%***<br/>
-A response that addresses most of the key issues and most of the arguments are reasonably logical. There may be some inconsistencies in the arguments. Some important aspects of the discussion may be incomplete or unconvincing, and the proposed improvements have weak propositions.<br/> 
+A response that addresses some of the key issues and most of the arguments are reasonably logical. There may be some inconsistencies in the arguments. Some important aspects of the discussion may be incomplete or unconvincing, and the proposed improvements have weak propositions.<br/> 
 
 ***Score range: 51%-69%***<br/>
 A well-argued response that investigates potential issues with the proposed machine learning and data processing methods in the presented work provides a reasonable set of alternative evaluation metrics, approaches and possible improvements. The argument is relatively rational. There may be some weakness in arguments or the proposed alternative approaches and ideas, or some aspects of the modelling, processing and evaluation issues may have been overlooked. <br/>
