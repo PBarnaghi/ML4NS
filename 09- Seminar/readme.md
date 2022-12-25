@@ -18,7 +18,7 @@ Please focus on different aspects of machine learning model(s) used in the prese
 
 **Marking Scheme:**
 
-***Score range: 10%-40%***<br/>
+<h3>Score range: 10%-40%</h3><br/>
 A response that explains a few relevant issues and concepts in the reviewed work but does not address the key issues or the report is incoherent or unfocused. <br/>
 
 ***Score range: 41%-50%***<br/>
