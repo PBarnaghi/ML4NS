@@ -66,7 +66,7 @@ Tutorials:
    [CNN Example for Edge Detection](./07-%20Convolutional%20Neural%20Networks/CNN_edge_detection_sample.ipynb)<br/>
    [Lab Notebook (working with CIFAR10 dataset)](./07-%20Convolutional%20Neural%20Networks/Lab/Lab07%20-%20Convolutional%20Neural%20Network.ipynb)<br/>
    [Lab Notebook (working with Alzheimer MRI Preprocessed Dataset)](./07-%20Convolutional%20Neural%20Networks/Lab/Lab07-MRI_Dementia.ipynb)<br/>
-   [Alzheimer MRI Preprocessed Dataset](https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset)<br/>
+   [Alzheimer's Disease- Preprocessed MRI Dataset](https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset)<br/>
    
 8. Applications in neuroscience and neuroscience inspired models<br/>
    [Slides](./08-%20Applicaitons%20in%20neurosience%20and%20neuroscience%20inspired%20ML/ML4NuerScience_Applications.pptx)<br/>
