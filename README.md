@@ -39,7 +39,7 @@ Tutorials:
    [Lab Questions](./00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20Assessment.ipynb)</br>
 
 2. Regression Models and Linear Prediction</br>
-   [Notes](./02-%20Introduction%20to%20ML/02_Linear_Models.pdf)</br>
+   [Notes](./02-%20Regression%20models%20and%20linear%20prediction/02_Linear_Models.pdf)</br>
    [Slides](./02-%20Regression%20models%20and%20linear%20prediction/ML4NuerScience_Linear_models.pptx)</br>
    [Lab Notebook](./02-%20Regression%20models%20and%20linear%20prediction/Lab/Linear_models_lab.ipynb)</br>
    [Lab Notebook (run)](./02-%20Regression%20models%20and%20linear%20prediction/Lab/Linear_models_lab_run.ipynb)</br>
