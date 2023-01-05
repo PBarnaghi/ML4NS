@@ -56,6 +56,7 @@ Tutorials:
    [Lab Notebook (run)](./04-%20Bayesian%20Models/Lab/Probability%20and%20Bayesian%20Theory%20(run).ipynb)</br>
    
 5. Support Vector Machines and Ensemble Models</br>
+   [Notes](./05-%20Ensemble%20models-SVM/05-Ensemble%20models_and_Kernel-based_models.pdf)</br>
    [Slides](./05-%20Ensemble%20models-SVM/ML4NuerScience_ensemble%20models_kernel_models.pptx)</br>
    [Lab Notebook](./05-%20Ensemble%20models-SVM/Lab/SVM_DT_RF_Lab.ipynb)</br>
 
