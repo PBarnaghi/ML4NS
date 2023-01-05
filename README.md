@@ -50,6 +50,7 @@ Tutorials:
    [Notebook: PDF and CDF Example](./03-%20Probability%20and%20Information%20Theory/PDF_CDF.ipynb)</br>
 
 4. Bayesian Models<br/>
+   [Notes](./04-%20Bayesian%20Models/04-Bayesian_models.pdf)</br>
    [Slides](./04-%20Bayesian%20Models/ML4NuerScience_BayesianModels.pptx)</br>
    [Lab Notebook](./04-%20Bayesian%20Models/Lab/Probability%20and%20Bayesian%20Theory.ipynb)</br>
    [Lab Notebook (run)](./04-%20Bayesian%20Models/Lab/Probability%20and%20Bayesian%20Theory%20(run).ipynb)</br>
