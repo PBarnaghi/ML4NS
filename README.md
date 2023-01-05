@@ -45,7 +45,7 @@ Tutorials:
    [Lab Notebook (run)](./02-%20Regression%20models%20and%20linear%20prediction/Lab/Linear_models_lab_run.ipynb)</br>
 
 3. Probability and Information Theory</br>
-   [Notes](./03-%20Probability%20and%20Information%20Theory/03_Probability_and_Information_Theory.pdf)
+   [Notes](./03-%20Probability%20and%20Information%20Theory/03_Probability_and_Information_Theory.pdf)</br>
    [Slides](./03-%20Probability%20and%20Information%20Theory/ML4NuerScience_Probability_info_theory.pptx)</br>
    [Notebook: PDF and CDF Example](./03-%20Probability%20and%20Information%20Theory/PDF_CDF.ipynb)</br>
 
