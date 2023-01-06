@@ -87,7 +87,7 @@ Tutorials:
    [Slides](./08-%20Applicaitons%20in%20neurosience%20and%20neuroscience%20inspired%20ML/ML4NuerScience_Applications.pptx)<br/>
 
 9. Seminar - Ethical considerations and responsible machine learning <br/>
-   [Summary](./09-%20Seminar%20-%20Ethical%20considerations/09-%20Ethical_considerations.pdf)
+   [Summary](./09-%20Seminar%20-%20Ethical%20considerations/09-%20Ethical_considerations.pdf)<br/>
    [Notes and slides](./09-%20Seminar%20-%20Ethical%20considerations/readme.md)<br/>
 
 10. Final Project<br/>
