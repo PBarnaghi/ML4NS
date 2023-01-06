@@ -61,6 +61,7 @@ Tutorials:
    [Lab Notebook](./05-%20Ensemble%20models-SVM/Lab/SVM_DT_RF_Lab.ipynb)</br>
 
 6. Neural Networks</br>
+   [Notes](./06-%20Neural%20Networks/06_Neural_Networks.pdf)<br/>
    [Slides](./06-%20Neural%20Networks/ML4NuerScience_NeuralNets.pptx)</br>
    [Notebook: Sigmoid Function](./06-%20Neural%20Networks/sigmoid.ipynb)</br>
    [Lab Notebook and introduction to Pytorch](./06-%20Neural%20Networks/Lab/Lab.ipynb)</br>
