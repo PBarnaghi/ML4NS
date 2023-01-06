@@ -75,6 +75,7 @@ Tutorials:
    [Alzheimer's Disease- Preprocessed MRI Dataset](https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset)<br/>
    
 8. Applications in neuroscience and neuroscience inspired models<br/>
+   [Notes](./08-%20Applicaitons%20in%20neurosience%20and%20neuroscience%20inspired%20ML/08_Applications.pdf)<br/>
    [Slides](./08-%20Applicaitons%20in%20neurosience%20and%20neuroscience%20inspired%20ML/ML4NuerScience_Applications.pptx)<br/>
 
 9. Seminar - Ethical considerations and responsible machine learning <br/>
