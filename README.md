@@ -19,7 +19,7 @@
 
 **Lab experiments:**
 
-To run the lab experiments, you can use [Anaconda](https://docs.anaconda.com/ae-notebooks/user-guide/basic-tasks/apps/jupyter/index.html), [Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks), or upload the Jupyuter Notebooks directly to Google CoLab. <br/>
+To run the lab experiments, you can use [Anaconda](https://docs.anaconda.com/ae-notebooks/user-guide/basic-tasks/apps/jupyter/index.html), [Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks), or upload the Jupyuter Notebooks directly to Google CoLab. 
 
 To use Google Colab with GitHub, see this [link](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=-pVhOfzLx9us)<br/><br/>
 
