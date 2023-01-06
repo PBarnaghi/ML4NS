@@ -37,7 +37,7 @@ Tutorials:
 &nbsp;&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1PCHpLzcLowkWnoovYm7DpJud4xRQwO2l/view?usp=share_link)  
 
 &nbsp;&nbsp;&nbsp;[Machine Learning for Beginners (introduction to scikit-learn)](./00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20(run).ipynb)<br/>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://drive.google.com/file/d/1PCHpLzcLowkWnoovYm7DpJud4xRQwO2l/view?usp=share_link](https://github.com/PBarnaghi/ML4NS/blob/main/00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20Assessment.ipynb))
+&nbsp;&nbsp;&nbsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://github.com/PBarnaghi/ML4NS/blob/main/00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20Assessment.ipynb]
 
 &nbsp;&nbsp;&nbsp;[Summary](./00-%20Tutorials/ML4Neuroscience_tutorials.pdf)
 
