@@ -33,7 +33,8 @@ For more information on how to use Google Colab with GitHub, see this [link](htt
 
 Tutorials: 
 
-&nbsp;&nbsp;&nbsp;[Python for Beginners](./00-%20Tutorials/Python%20for%20Beginners%20Tutorial/Python%20for%20Beginners%20(run).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/weiji14/deepbedmap/](https://github.com/PBarnaghi/ML4NS/blob/main/00-%20Tutorials/Python%20for%20Beginners%20Tutorial/Python%20for%20Beginners%20(run).ipynb)]
+&nbsp;&nbsp;&nbsp;[Python for Beginners](./00-%20Tutorials/Python%20for%20Beginners%20Tutorial/Python%20for%20Beginners%20(run).ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/PBarnaghi/ML4NS/blob/main/00-%20Tutorials/Python%20for%20Beginners%20Tutorial/Python%20for%20Beginners%20(run).ipynb)
 
 &nbsp;&nbsp;&nbsp;[Machine Learning for Beginners (introduction to scikit-learn)](./00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20(run).ipynb)
 
