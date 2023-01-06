@@ -15,7 +15,7 @@
 **Virtual environment settings:**
 
 [YML file](./Virtual%20Environment%20Settings/virtual_env.yml)<br/>
-(for more informaiton and creating an environment from an environment.yml file see this [link](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file))<br/>
+(for more informaiton and for creating an environment from an environment.yml file see this [link](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file))<br/><br/>
 
 **Lab experiments:**
 
