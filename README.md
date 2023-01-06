@@ -15,7 +15,13 @@
 **Virtual environment settings:**
 
 [YML file](./Virtual%20Environment%20Settings/virtual_env.yml)<br/>
-(for more informaiton and creating an environment from an environment.yml file see this [link](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file))
+(for more informaiton and creating an environment from an environment.yml file see this [link](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file))<br/>
+
+**Lab experiments:**
+
+To run the lab experiments, you can use [Anaconda](https://docs.anaconda.com/ae-notebooks/user-guide/basic-tasks/apps/jupyter/index.html), [Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks), or upload the Jupyuter Notebooks directly to Google CoLab. <br/>
+
+To use Google Colab with GitHub, see this [link](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=-pVhOfzLx9us)<br/>
 
 **Mathematical symbols and notations:**
 
