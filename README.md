@@ -67,7 +67,7 @@ Tutorials:
    [Lab Notebook and introduction to Pytorch](./06-%20Neural%20Networks/Lab/Lab.ipynb)</br>
    
 7. Convolutional Neural Networks</br>
-   [Notes](./07-%20Convolutional%20Neural%20Networks/07-Convolutional_Neural_Networks%20(CNNs).pdf)
+   [Notes](./07-%20Convolutional%20Neural%20Networks/07-Convolutional_Neural_Networks%20(CNNs).pdf)<br/>
    [Slides](./07-%20Convolutional%20Neural%20Networks/ML4NuerScience_CNN.pptx)<br/>
    [CNN Example for Edge Detection](./07-%20Convolutional%20Neural%20Networks/CNN_edge_detection_sample.ipynb)<br/>
    [Lab Notebook (working with CIFAR10 dataset)](./07-%20Convolutional%20Neural%20Networks/Lab/Lab07%20-%20Convolutional%20Neural%20Network.ipynb)<br/>
