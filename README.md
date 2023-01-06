@@ -20,7 +20,7 @@
 **Lab experiments:**
 
 To run the lab experiments, you can use [Anaconda](https://docs.anaconda.com/ae-notebooks/user-guide/basic-tasks/apps/jupyter/index.html), [Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks), or upload the Jupyuter Notebooks directly to Google CoLab. 
-For more information on how to use Google Colab with GitHub, see this [link](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=-pVhOfzLx9us)<br/><br/>
+For more information on how to use Google Colab with GitHub, see this [link](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=-pVhOfzLx9us).<br/><br/>
 
 **Mathematical symbols and notations:**
 
@@ -87,6 +87,7 @@ Tutorials:
    [Slides](./08-%20Applicaitons%20in%20neurosience%20and%20neuroscience%20inspired%20ML/ML4NuerScience_Applications.pptx)<br/>
 
 9. Seminar - Ethical considerations and responsible machine learning <br/>
+   [Summary](./09-%20Seminar%20-%20Ethical%20considerations/09-%20Ethical_considerations.pdf)
    [Notes and slides](./09-%20Seminar%20-%20Ethical%20considerations/readme.md)<br/>
 
 10. Final Project<br/>
