@@ -65,12 +65,14 @@ Tutorials:
    [Notes](./05-%20Ensemble%20models-SVM/05-Ensemble%20models_and_Kernel-based_models.pdf)</br>
    [Slides](./05-%20Ensemble%20models-SVM/ML4NuerScience_ensemble%20models_kernel_models.pptx)</br>
    [Lab Notebook](./05-%20Ensemble%20models-SVM/Lab/SVM_DT_RF_Lab.ipynb)</br>
+   [Lab Notebook (run)](./05-%20Ensemble%20models-SVM/Lab/SVM_DT_RF_lab_run.ipynb)</br>
 
 6. Neural Networks</br>
    [Notes](./06-%20Neural%20Networks/06_Neural_Networks.pdf)<br/>
    [Slides](./06-%20Neural%20Networks/ML4NuerScience_NeuralNets.pptx)</br>
    [Notebook: Sigmoid Function](./06-%20Neural%20Networks/sigmoid.ipynb)</br>
-   [Lab Notebook and introduction to Pytorch](./06-%20Neural%20Networks/Lab/Lab.ipynb)</br>
+   [Lab Notebook and introduction to Pytorch](./06-%20Neural%20Networks/Lab/neural_network_lab.ipynb)</br>
+   [Lab Notebook and introduction to Pytorch (run)](./06-%20Neural%20Networks/Lab/neural_network_lab_run.ipynb)</br>
    
 7. Convolutional Neural Networks</br>
    [Notes](./07-%20Convolutional%20Neural%20Networks/07-Convolutional_Neural_Networks%20(CNNs).pdf)<br/>
