@@ -112,7 +112,7 @@ Software elements are additionally licensed under the [BSD (3-Clause) License][b
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg?style=plastic&logo=appveyor
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg?style=plastic&logo=appveyor&color=green
 
 [bsd-3]: https://opensource.org/licenses/BSD-3-Clause
-[bsd-3-shield]: https://img.shields.io/pypi/l/qsurface
+[bsd-3-shield]: https://img.shields.io/pypi/l/qsurface?style=plastic&logo=appveyor&color=green
