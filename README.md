@@ -33,7 +33,7 @@ For more information on how to use Google Colab with GitHub, see this [link](htt
 
 Tutorials: 
 
-&nbsp;&nbsp;&nbsp;[Python for Beginners](./00-%20Tutorials/Python%20for%20Beginners%20Tutorial/Python%20for%20Beginners%20(run).ipynb) &nbsp;&nbsp;&nbsp;  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1PCHpLzcLowkWnoovYm7DpJud4xRQwO2l/view?usp=share_link) &nbsp;&nbsp;&nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/payambarnaghi/notebookb87ad7a988)
+&nbsp;&nbsp;&nbsp;[Python for Beginners](./00-%20Tutorials/Python%20for%20Beginners%20Tutorial/Python%20for%20Beginners%20(run).ipynb) &nbsp;&nbsp;  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1PCHpLzcLowkWnoovYm7DpJud4xRQwO2l/view?usp=share_link) &nbsp;&nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/payambarnaghi/notebookb87ad7a988)
 
 &nbsp;&nbsp;&nbsp; [Machine Learning for Beginners (introduction to scikit-learn)](./00-%20Tutorials/Machine%20Learning%20for%20Beginners%20Tutorial%20and%20Assessment/Machine%20Learning%20for%20Beginners%20(run).ipynb) &nbsp;&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1kv2p2G0uWfrCBxLtget9n8FJapoxAzuG/view?usp=share_link) &nbsp;&nbsp;&nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/payambarnaghi/notebook68746a6523)
 
