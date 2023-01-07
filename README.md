@@ -57,13 +57,13 @@ Tutorials:
 3. Probability and Information Theory</br>
    [Notes](./03-%20Probability%20and%20Information%20Theory/03_Probability_and_Information_Theory.pdf)</br>
    [Slides](./03-%20Probability%20and%20Information%20Theory/ML4NuerScience_Probability_info_theory.pptx)</br>
-   [Notebook: PDF and CDF Example](./03-%20Probability%20and%20Information%20Theory/PDF_CDF.ipynb) &nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1XLpKFD1JhIA7xQYCwiCclkzxVuvkOa3u/view?usp=share_link) &nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/payambarnaghi/pdf-and-cdf-sample)</br>
+   [Notebook: PDF and CDF Example](./03-%20Probability%20and%20Information%20Theory/PDF_CDF.ipynb) &nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1XLpKFD1JhIA7xQYCwiCclkzxVuvkOa3u/view?usp=share_link) &nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/payambarnaghi/pdf-and-cdf-sample)</br>
 
 4. Bayesian Models<br/>
    [Notes](./04-%20Bayesian%20Models/04-Bayesian_models.pdf)</br>
    [Slides](./04-%20Bayesian%20Models/ML4NuerScience_BayesianModels.pptx)</br>
-   [Lab Notebook](./04-%20Bayesian%20Models/Lab/Probability%20and%20Bayesian%20Theory.ipynb)</br>
-   [Lab Notebook (run)](./04-%20Bayesian%20Models/Lab/Probability%20and%20Bayesian%20Theory%20(run).ipynb)</br>
+   [Lab Notebook](./04-%20Bayesian%20Models/Lab/Probability%20and%20Bayesian%20Theory.ipynb) &nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Iz280hqkfS0jFLhL0pWWi95RxujHDLgP/view?usp=share_link) &nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/payambarnaghi/probability-and-bayesian-theory)</br>
+   [Lab Notebook (run)](./04-%20Bayesian%20Models/Lab/Probability%20and%20Bayesian%20Theory%20(run).ipynb)&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Xncy9PS_bz2GzY744V8uQ26u7m2iJ6B8/view?usp=share_link) &nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/payambarnaghi/probability-and-bayesian-theory-run)</br>
    
 5. Support Vector Machines and Ensemble Models</br>
    [Notes](./05-%20Ensemble%20models-SVM/05-Ensemble%20models_and_Kernel-based_models.pdf)</br>
