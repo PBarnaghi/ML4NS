@@ -81,8 +81,8 @@ Tutorials:
 7. Convolutional Neural Networks</br>
    [Notes](./07-%20Convolutional%20Neural%20Networks/07-Convolutional_Neural_Networks%20(CNNs).pdf)<br/>
    [Slides](./07-%20Convolutional%20Neural%20Networks/ML4NuerScience_CNN.pptx)<br/>
-   [CNN Example for Edge Detection](./07-%20Convolutional%20Neural%20Networks/CNN_edge_detection_sample.ipynb)<br/>
-   [Lab Notebook (working with CIFAR10 dataset)](./07-%20Convolutional%20Neural%20Networks/Lab/Lab07%20-%20Convolutional%20Neural%20Network.ipynb)<br/>
+   [CNN Example for Edge Detection](./07-%20Convolutional%20Neural%20Networks/CNN_edge_detection_sample.ipynb)&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1uUT81LUetPZ15MdU1PrveZLhuMqh6vxU/view?usp=share_link) &nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/payambarnaghi/ccn-edge-detection)</br>
+   [Lab Notebook (working with CIFAR10 dataset)](./07-%20Convolutional%20Neural%20Networks/Lab/Lab07%20-%20Convolutional%20Neural%20Network.ipynb) &nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1FY3t-4qndg4WxZQn7vJ9K1VC1tPpjKCI/view?usp=share_link) &nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]([https://www.kaggle.com/payambarnaghi/sigmoid](https://www.kaggle.com/code/payambarnaghi/notebook2f37b39af7)</br>
    [Lab Notebook (working with Alzheimer MRI Preprocessed Dataset)](./07-%20Convolutional%20Neural%20Networks/Lab/Lab07-MRI_Dementia.ipynb)<br/>
    [Alzheimer's Disease- Preprocessed MRI Dataset](https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset)<br/>
    
