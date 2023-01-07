@@ -57,7 +57,7 @@ Tutorials:
 3. Probability and Information Theory</br>
    [Notes](./03-%20Probability%20and%20Information%20Theory/03_Probability_and_Information_Theory.pdf)</br>
    [Slides](./03-%20Probability%20and%20Information%20Theory/ML4NuerScience_Probability_info_theory.pptx)</br>
-   [Notebook: PDF and CDF Example](./03-%20Probability%20and%20Information%20Theory/PDF_CDF.ipynb)</br>
+   [Notebook: PDF and CDF Example](./03-%20Probability%20and%20Information%20Theory/PDF_CDF.ipynb) &nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1XLpKFD1JhIA7xQYCwiCclkzxVuvkOa3u/view?usp=share_link) &nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/payambarnaghi/pdf-and-cdf-sample)</br>
 
 4. Bayesian Models<br/>
    [Notes](./04-%20Bayesian%20Models/04-Bayesian_models.pdf)</br>
