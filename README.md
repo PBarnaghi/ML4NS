@@ -51,7 +51,7 @@ Tutorials:
 2. Regression Models and Linear Prediction</br>
    [Notes](./02-%20Regression%20models%20and%20linear%20prediction/02-Linear_Models.pdf)</br>
    [Slides](./02-%20Regression%20models%20and%20linear%20prediction/ML4NuerScience_Linear_models.pptx)</br>
-   [Lab Notebook](./02-%20Regression%20models%20and%20linear%20prediction/Lab/Linear_models_lab.ipynb)&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1N5z8Stt3XX5bknr8Inl64e0ABHlYfY3V/view?usp=share_link) &nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/payambarnaghi/notebook68746a6523)</br>
+   [Lab Notebook](./02-%20Regression%20models%20and%20linear%20prediction/Lab/Linear_models_lab.ipynb)&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1N5z8Stt3XX5bknr8Inl64e0ABHlYfY3V/view?usp=share_link) &nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/payambarnaghi/linear-models)</br>
    [Lab Notebook (run)](./02-%20Regression%20models%20and%20linear%20prediction/Lab/Linear_models_lab_run.ipynb) &nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1o2WBo7CrEnr0eX0T-OPbHYlnggcaorJh/view?usp=share_link) &nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/payambarnaghi/linear-models-run)</br>
 
 3. Probability and Information Theory</br>
