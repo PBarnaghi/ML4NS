@@ -68,8 +68,8 @@ Tutorials:
 5. Support Vector Machines and Ensemble Models</br>
    [Notes](./05-%20Ensemble%20models-SVM/05-Ensemble%20models_and_Kernel-based_models.pdf)</br>
    [Slides](./05-%20Ensemble%20models-SVM/ML4NuerScience_ensemble%20models_kernel_models.pptx)</br>
-   [Lab Notebook](./05-%20Ensemble%20models-SVM/Lab/SVM_DT_RF_Lab.ipynb)</br>
-   [Lab Notebook (run)](./05-%20Ensemble%20models-SVM/Lab/SVM_DT_RF_lab_run.ipynb)</br>
+   [Lab Notebook](./05-%20Ensemble%20models-SVM/Lab/SVM_DT_RF_Lab.ipynb)&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1aruY0xQYgN7YQOCdoGayjNgFfVYUaooU/view?usp=share_link) &nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/payambarnaghi/svm-decision-trees-random-forest)</br>
+   [Lab Notebook (run)](./05-%20Ensemble%20models-SVM/Lab/SVM_DT_RF_lab_run.ipynb)&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1JkjkGZxIXtAp6Clh33fLGSdnNSAGFi-q/view?usp=share_link) &nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/payambarnaghi/svm-decision-trees-random-forest-run)</br>
 
 6. Neural Networks</br>
    [Notes](./06-%20Neural%20Networks/06_Neural_Networks.pdf)<br/>
