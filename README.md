@@ -74,9 +74,9 @@ Tutorials:
 6. Neural Networks</br>
    [Notes](./06-%20Neural%20Networks/06_Neural_Networks.pdf)<br/>
    [Slides](./06-%20Neural%20Networks/ML4NuerScience_NeuralNets.pptx)</br>
-   [Notebook: Sigmoid Function](./06-%20Neural%20Networks/sigmoid.ipynb)</br>
-   [Lab Notebook and introduction to Pytorch](./06-%20Neural%20Networks/Lab/neural_network_lab.ipynb)</br>
-   [Lab Notebook and introduction to Pytorch (run)](./06-%20Neural%20Networks/Lab/neural_network_lab_run.ipynb)</br>
+   [Notebook: Sigmoid Function](./06-%20Neural%20Networks/sigmoid.ipynb)&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1E_S03sV0QssvMfzEn-R8whAjULzbtD-d/view?usp=share_link) &nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/payambarnaghi/sigmoid)</br>
+   [Lab Notebook and introduction to Pytorch](./06-%20Neural%20Networks/Lab/neural_network_lab.ipynb)&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1yRfxh2JFjRjbiytEv6qDtpQjfKln6OEU/view?usp=share_link) </br>
+   [Lab Notebook and introduction to Pytorch (run)](./06-%20Neural%20Networks/Lab/neural_network_lab_run.ipynb)&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1E7ueGh1GgUMaKmqsgiT_DPw1I5mQKPkR/view?usp=share_link)</br>
    
 7. Convolutional Neural Networks</br>
    [Notes](./07-%20Convolutional%20Neural%20Networks/07-Convolutional_Neural_Networks%20(CNNs).pdf)<br/>
