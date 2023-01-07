@@ -33,6 +33,8 @@ For more information on how to use Google Colab with GitHub, see this [link](htt
 
 Tutorials: 
 
+&nbsp;&nbsp;&nbsp;[Python for Beginners](./00-%20Tutorials/Python%20for%20Beginners%20Tutorial/Python%20for%20Beginners%20(run).ipynb) &nbsp;&nbsp;&nbsp;  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1PCHpLzcLowkWnoovYm7DpJud4xRQwO2l/view?usp=share_link) &nbsp;&nbsp;&nbsp; ![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/payambarnaghi/notebookb87ad7a988)
+
 | <span style="font-weight:normal">[Python for Beginners](./00-%20Tutorials/Python%20for%20Beginners%20Tutorial/Python%20for%20Beginners%20(run).ipynb)</span> 	| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1PCHpLzcLowkWnoovYm7DpJud4xRQwO2l/view?usp=share_link) 	| [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/payambarnaghi/notebookb87ad7a988) 	|
 |----------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	| 
 
