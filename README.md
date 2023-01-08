@@ -1,7 +1,7 @@
 # Machine Learning for Neuroscience
   Department of Brain Sciences </br>
   Imperial College London<br/>
-  &#38;
+  &#38;<br/>
   Care Research and Technology Centre<br/>
   The UK Dementia Research Institute 
 
