@@ -98,6 +98,9 @@ Tutorials:
 
 10. Final Project<br/>
     [Notes](./10-%20Final%20Project)<br/>
+    
+11. Summary and overview <br/>
+    [Slides](./11-%20Summary/ML4NuerScience_Summary.pptx)
   
 <br/>
 
