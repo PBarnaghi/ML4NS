@@ -1,1 +1,1 @@
-Project description is avaiable on Blackboard. 
+Project description is available on Blackboard. 
