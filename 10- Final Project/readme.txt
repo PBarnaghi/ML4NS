@@ -1,1 +1,1 @@
-The content will be added later in January. 
+Project description is avaiable on Blackboard. 
