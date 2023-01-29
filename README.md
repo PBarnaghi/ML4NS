@@ -33,7 +33,7 @@ For more information on how to use Google Colab with GitHub, see this [link](htt
 
 **Slides and notes:**
 
-Updated after the lectures: [Annoated slides](https://github.com/PBarnaghi/ML4NS/tree/main/Annotated%20slides)
+<i>Updated after the lectures</i>: [Annoated slides](https://github.com/PBarnaghi/ML4NS/tree/main/Annotated%20slides)
 
 Tutorials: 
 
