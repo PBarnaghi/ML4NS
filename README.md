@@ -105,8 +105,10 @@ Tutorials:
     [Slides](./11-%20Summary/ML4NuerScience_Summary.pptx)
   
 <hr>
+#GenerativeAI
 
 <b>Optional lectures (May 2023):</b>: <br/><br/>
+This optional series focus on generative AI models and cover a range of recent models in this domain, including Transformers (with a brief overview of Large Language Models - LLMs-, Generative Pre-trained Transfoer (GPT)), Variational Autoencoders and Diffusion models. 
 
 <i>Acknowledgement: The content for the slides is adapted from Understanding Deep Learning, Simon J.D. Prince,  https://udlbook.github.io/udlbook/</i>
 <br/>
