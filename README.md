@@ -33,6 +33,8 @@ For more information on how to use Google Colab with GitHub, see this [link](htt
 
 **Slides and notes:**
 
+<i>Updated after the lectures</i>: [Annoated slides](https://github.com/PBarnaghi/ML4NS/tree/main/Annotated%20slides)
+
 Tutorials: 
 
 &nbsp;&nbsp;&nbsp;[Python for Beginners](./00-%20Tutorials/Python%20for%20Beginners%20Tutorial/Python%20for%20Beginners%20(run).ipynb) &nbsp;&nbsp;  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1PCHpLzcLowkWnoovYm7DpJud4xRQwO2l/view?usp=share_link) &nbsp; [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/payambarnaghi/python-for-beginners)
