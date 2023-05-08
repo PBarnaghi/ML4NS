@@ -105,7 +105,14 @@ Tutorials:
     [Slides](./11-%20Summary/ML4NuerScience_Summary.pptx)
   
 <br/>
+<hr>
+Optional Lectures (May 2023):
 
+8. Transformers<br/>
+   [Slides](./12-%20Advanced%20topics%20(optional)/Transformers/ML4NuerScience_transformers.pptx)<br/>
+   [Notebook (Sample Transformer)](./12-%20Advanced%20topics%20(optional)/Transformers/Code/transformer.ipynb)&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1_0tNoO5V106R0JyBjSC4uDeL81HG3HCI/view?usp=share_link)<br/>
+   [Notebook (OpenAI GPT sample)](./12-%20Advanced%20topics%20(optional)/Transformers/Code/GPT_example.ipynb)&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1qX_b6iorlqtL9SCtbl6E_9_0ulnnH2Sn/view?usp=share_link)<br/>
+   
 
 ## Licensing
 
