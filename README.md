@@ -104,9 +104,11 @@ Tutorials:
 11. Summary and overview <br/>
     [Slides](./11-%20Summary/ML4NuerScience_Summary.pptx)
   
-<br/>
 <hr>
-Optional Lectures (May 2023):
+Optional Lectures (May 2023): <br/>
+
+<it>Acknowledgement: The content for the slides is adapted from Understanding Deep Learning, Simon J.D. Prince,  https://udlbook.github.io/udlbook/</it>
+<br/>
 
 8. Transformers<br/>
    [Slides](./12-%20Advanced%20topics%20(optional)/Transformers/ML4NuerScience_transformers.pptx)<br/>
