@@ -107,7 +107,8 @@ Tutorials:
 <hr>
 
 
-<b>[Optional lectures (May 2023):](GenerativeAI)</b><br/><br/>
+##Optional lectures
+</b><br/><br/>
 This optional series focus on generative AI models and cover a range of recent models in this domain, including Transformers -with a brief overview of Large Language Models (LLMs), Generative Pre-trained Transformer (GPT)-, Variational Autoencoders (VAE) and Diffusion models. 
 
 <i>Acknowledgement: The content for the slides is adapted from Understanding Deep Learning, Simon J.D. Prince,  https://udlbook.github.io/udlbook/</i>
