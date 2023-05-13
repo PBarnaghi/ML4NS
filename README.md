@@ -106,7 +106,7 @@ Tutorials:
   
 <hr>
 
-<a href="#GenerativeAI"></a>
+[](#GenerativeAI)
 <b>Optional lectures (May 2023)</b>
 </b><br/><br/>
 This optional series focus on generative AI models and cover a range of recent models in this domain, including Transformers -with a brief overview of Large Language Models (LLMs), Generative Pre-trained Transformer (GPT)-, Variational Autoencoders (VAE) and Diffusion models. 
