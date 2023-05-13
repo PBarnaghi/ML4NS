@@ -106,7 +106,7 @@ Tutorials:
   
 <hr>
 
-
+<a href="#GenerativeAI"></a>
 <b>Optional lectures (May 2023)</b>
 </b><br/><br/>
 This optional series focus on generative AI models and cover a range of recent models in this domain, including Transformers -with a brief overview of Large Language Models (LLMs), Generative Pre-trained Transformer (GPT)-, Variational Autoencoders (VAE) and Diffusion models. 
@@ -130,7 +130,8 @@ III. Diffusion models<br/>
    [Slides]([./12-%20Advanced%20topics%20(optional)/Diff_Modles/ML4NuerScience_diffusion.pptx)<br/>
    [Notebook](./12-%20Advanced%20topics%20(optional)/Diff_Modles/code/denoising_diffusion.ipynb)&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1GFxk0a8zD-6D6ByimEjcKVK2L4eIM4Rh/view?usp=share_link)<br/>
    [Video recording](https://imperiallondon-my.sharepoint.com/personal/pbarnagh_ic_ac_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fpbarnagh%5Fic%5Fac%5Fuk%2FDocuments%2FRecordings%2FML4Neuroscience%20%2D%20Transformers%2D20230512%5F100623%2DMeeting%20Recording%2Emp4&ga=1)</br>
-   [Hugging Face- Train a diffusion model](https://huggingface.co/docs/diffusers/main/en/tutorials/basic_training)
+   [Video on YouTube](https://www.youtube.com/watch?v=dF5ocaOcQt8&feature=youtu.be)</br>
+   [Hugging Face- Train a diffusion model](https://huggingface.co/docs/diffusers/main/en/tutorials/basic_training)<br/><br/>
   
    
 
