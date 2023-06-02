@@ -122,12 +122,12 @@ I. Transformers<br/>
    [Video recording](https://imperiallondon-my.sharepoint.com/personal/pbarnagh_ic_ac_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fpbarnagh%5Fic%5Fac%5Fuk%2FDocuments%2FRecordings%2FML4Neuroscience%20%2D%20Transformers%2D20230509%5F100633%2DMeeting%20Recording%2Emp4&ga=1)<br/>
 
 II. Variational Autoencoders<br/>
-   [Slides]([./12-%20Advanced%20topics%20(optional)/VAE/ML4NuerScience_VAE.pptx)<br/>
+   [Slides](./12-%20Advanced%20topics%20(optional)/VAE/ML4NuerScience_VAE.pptx)<br/>
    [Notebook](./12-%20Advanced%20topics%20(optional)/VAE/code/vae.ipynb)&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1UTR6oWeJOGIZap8rHLuT2uGFGxSnwody/view?usp=share_link)<br/>
    [Video recording](https://imperiallondon-my.sharepoint.com/personal/pbarnagh_ic_ac_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fpbarnagh%5Fic%5Fac%5Fuk%2FDocuments%2FRecordings%2FML4Neuroscience%20%2D%20Transformers%2D20230510%5F103834%2DMeeting%20Recording%2Emp4&referrer=Teams%2ETEAMS%2DELECTRON&referrerScenario=p2p%5Fns%2Dbim&ga=1)<br/>
    
 III. Diffusion models<br/>
-   [Slides]([./12-%20Advanced%20topics%20(optional)/Diff_Modles/ML4NuerScience_diffusion.pptx)<br/>
+   [Slides](./12-%20Advanced%20topics%20(optional)/Diff_Modles/ML4NuerScience_diffusion.pptx)<br/>
    [Notebook](./12-%20Advanced%20topics%20(optional)/Diff_Modles/code/denoising_diffusion.ipynb)&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1GFxk0a8zD-6D6ByimEjcKVK2L4eIM4Rh/view?usp=share_link)<br/>
    [Video recording](https://imperiallondon-my.sharepoint.com/personal/pbarnagh_ic_ac_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fpbarnagh%5Fic%5Fac%5Fuk%2FDocuments%2FRecordings%2FML4Neuroscience%20%2D%20Transformers%2D20230512%5F100623%2DMeeting%20Recording%2Emp4&ga=1)</br>
    [Video on YouTube](https://www.youtube.com/watch?v=dF5ocaOcQt8&feature=youtu.be)</br>
